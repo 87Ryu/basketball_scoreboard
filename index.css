@@ -24,7 +24,7 @@ body {
 
 /* Team title*/
 .home, 
-.guest {
+.away {
     color: #EEEEEE;
     font-family: 'Verdana', sans-serif;
     font-size: 40px;
@@ -34,7 +34,7 @@ body {
 
 /* Score boxes */
 #home-score, 
-#guest-score {
+#away-score {
     background-color: #080001;
     color: #F94F6D;
     font-family: 'Cursed Timer ULiL', cursive;

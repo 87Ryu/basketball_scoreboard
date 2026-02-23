@@ -18,5 +18,5 @@ function add3(team = 'home') {
 
 function newGame() {
     document.getElementById('home-score').textContent = 0;
-    document.getElementById('guest-score').textContent = 0;
+    document.getElementById('away-score').textContent = 0;
 }
